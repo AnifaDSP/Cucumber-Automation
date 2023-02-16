@@ -32,4 +32,4 @@ Feature: Verifying Adactin Cancel Booking Hotel Details
 
     Examples: 
       | userName | password  | Order Id   |
-      | Anifadsp | Anifa@786 | P8B66CU027 |
+      | Anifadsp | Anifa@786 | IK5MD48L71 |
